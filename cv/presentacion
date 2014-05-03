@@ -1,0 +1,47 @@
+My name is Rodolfo García I am twenty-six years old and I was born in Madrid (Spain).
+
+I am qualified as an engineer in "consumer electronics equipment" and as a senior engineer in "electronic product development" which are vocational training certificates (four years in total).
+
+Along with these certificates my father is a senior engineer in electronics and telecommunications and so having an electronic instrumentation lab at home has been normal throughout my life. From that electronics became an interest and then my main profession. Undoubtedly the area that I really like is R&D and communications protocols.
+
+I also have different levels of experience in programming languages such as VB6, C, Wiring, MPASM, Perl, bash shell, etc. and have worked with EDA programs as EDWin, Tango, Altium/Protel, Orcad, Proteus, Fritzing and KiCad.
+
+In circuit development I am more specialized in digital and microprogrammable electronics but I can handle relatively complex analogue circuits and I am gaining more experience in this.
+
+There are two areas that I have always really wanted to get involved in but I haven't had the time or the possibility to do so - these are ARM microcontrollers and CPLD/FPGA. I have seen that you work with both of them.
+
+I am used to creating prototypes and final PCBs by different methods, such as breadboard, perforated board, etching and milling from gerber.
+
+I have been working with CAD programs in 2D and 3D like Visio Technical (before it was disastrously purchased by Microsoft), SolidWorks, FreeCAD, OpenSCAD and Dia.
+
+With respect to computers, I am an experienced user of Windows (up to XP, and occasionally I use Win7 for games), and I have several years of experience using Debian flavour Linux distros (Debian, Raspbian, Ubuntu, Mint) both desktop and server.
+
+In terms of Open Source, I am currently involved with the Free Culture movement because I feel comfortable with its ideology. I am also a founding member of Synusia, an electronic club very committed to the Open Source Software/Hardware of the vocational training center where I studied.
+
+This year, Synusia will be organizing the third consecutive year of the OSHWCon (Open Source Hardware, Electronics & Robotics Convention) and we expect to have good results as in previous years.
+
+In terms of my development project experience I could mention among others: the embedded computer CNC (final year project), the complete system of DMX (from computer, mixer console and slaves) and the specification of a communication protocol for lab instrumentation without host (something similar to the GPIB, but open, more powerful and cheaper). I will shortly be working on the development of some lab equipment that will probably use your application.
+
+Until recently I was a consultant developing hardware and software for a complete building automation application.
+
+I am currently a teacher of extracurricular activity for children between thirteen and fifteen years old where we are I am teaching an introduction to electronics and robotics.
+
+My on-line user ID is Kwendenarmo and you can find more information about me on:
+http://kwendenarmo.es (personal site)
+http://kwendenarmo.synusia.es (Synusia Blog)
+http://akornsys-rdi.net (my new brand/projects portal, newly acquired!)
+http://github.com/kwendenarmo (self-explanatory)
+As for what I would like to develop next, that will depend on your criteria. I would be happy to follow closely your development and what I really would like to do is to participate in a devel environment in any way you think suitable.
+
+
+
+
+
+
+
+- añadir a lenguajes de programacion:
+    * scratch
+    * snap!
+    * accel (tango)
+    * siemens/omrom/pharao/fatek plc step7 microwin, sismatic, tia portal/logo!/cxprogrammer/pharao/winproladder
+

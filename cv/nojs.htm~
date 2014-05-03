@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>No se encuentra JavaScript</title>
+</head>
+<body>
+<div>
+    <p>Para poder utilizar correctamente la versión online, JavaScript ha de 
+    estar habilitado. Parece ser que esta funcionalidad está desactivada o que 
+    su navegador no es compatible.<br />
+    Pruebe a habilitar JavaScript cambiando las opciones de su navegador o sus 
+    extensiones y <a href="index.php?q=online" >haga clic aquí</a>.</p>
+    <p>También puede utilizar la versión imprimible, la cual no requiere 
+    JavaScript, <a href="index.php?q=print" >haciendo clic aquí</a>.</p>
+</div>
+</body>
+</html>
