@@ -1,0 +1,76 @@
+
+body {
+    width: 100%;
+    background: url(../img/pattern.png);
+}
+
+#block-head {
+    margin: auto; /*margin al ancho establecido*/
+    width: 90%;
+    height: 50px;
+}
+
+#head-sitename {
+    float: left;
+}
+
+#head-sitename h1 {
+    display: block;
+}
+
+ #head-combolang {
+    float: right;
+}
+
+#block-main {
+    width: 90%;
+    margin: auto;
+    background-color: rgba(255,255,255,0.5);
+    clear: both;
+}
+
+#block-main section {
+    padding: 20px;
+}
+
+#block-main span {
+    display: block;
+    width: 35%;
+}
+
+div span img {
+    width: 100%;
+    float: left;
+    margin-right: 15px;
+    opacity: 0.7;
+}
+
+section p {
+    line-height: 130%;
+    text-align: justify;
+}
+
+#block-nav {
+    top: 0px;
+    position: absolute;
+}
+
+#block-foot {
+    width: 90%;
+    margin: auto;
+}
+
+#foot-social, #foot-info {
+    float: left;
+    width: 50%;
+}
+
+#foot-sitemap {
+    float: left;
+    width: 100%;
+    background-color: grey;
+}
+
+.clear {
+    clear: both;
+}
